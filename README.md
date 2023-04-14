@@ -12,10 +12,9 @@
 
 - 💬 I'm from **The Netherlands, Haarlem**
 
-- 📫 How to reach me **Tayam0nline@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- **Tayam0nline@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
