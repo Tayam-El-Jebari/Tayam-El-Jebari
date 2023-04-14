@@ -12,9 +12,6 @@
 
 - 💬 I'm from **The Netherlands, Haarlem**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> **Tayam0nline@gmail.com**
-</p>
 
 <h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left">
@@ -44,11 +41,11 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayam-el-jebari&show_icons=true&locale=en" alt="tayam-el-jebari" /></p>
+
 ***  
 
 <em><p align="center">let's get in touch!</p></em>
 <p align="center">
 <a href="https://www.linkedin.com/in/tayam-el-jebari-9702a2146/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayam-el-jebari&show_icons=true&locale=en" alt="tayam-el-jebari" /></p>
