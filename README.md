@@ -15,7 +15,7 @@
 
 <h3 align="left">🔧 Languages and Tools:</h3>
 
-***
+**
 
 <h4 align="left"> These are some of the major technologies that I use or have worked on in the past: </h4>
 <p align="left">
