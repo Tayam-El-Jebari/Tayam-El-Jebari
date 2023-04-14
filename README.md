@@ -31,7 +31,7 @@ These are some of the major technologies that I use or have worked on in the pas
 </p>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-<div style="margin-top: 80px;"></div>
+<div style="margin-top: 1800px;"></div>
 
 Design and Creative Tools i have experience with:
 <p align="left">
