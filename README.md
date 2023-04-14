@@ -1,6 +1,6 @@
 <img align="left" alt="HTML" src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/main/LinkedIn%20Banne-Tayam.png" /> 
 
-<h1 align="center">Hello, there!</h1> <img src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/master/wave.gif" width="40px">
+<h1 align="center">Hello, there! <img src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/master/wave.gif" width="40px"></h1> 
 
 <h3 align="center">Curious Software Engineer and Informatics Student</h3>
 
