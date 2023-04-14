@@ -13,7 +13,7 @@
 - 💬 I'm from **The Netherlands, Haarlem**
 
 <h3 align="left">Connect with me:</h3>
-- **Tayam0nline@gmail.com**
+- Tayam0nline@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
