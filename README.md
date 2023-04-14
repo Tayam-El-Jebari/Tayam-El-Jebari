@@ -13,9 +13,8 @@
 - 💬 I'm from **The Netherlands, Haarlem**
 
 
-<h3 align="left">🔧 Languages and Tools:</h3>
+<h3 align="left">🔧 Languages and Tools that I use or have worked on in the past:</h3>
 
-These are some of the major technologies that I use or have worked on in the past:
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -35,7 +34,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <br><br>
 
 <h3 align="left">🎨 Design and Creative Tools i have experience with:</h3>
-I have experience in using the following programs:
 <p align="left">
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
