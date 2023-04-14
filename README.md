@@ -1,4 +1,4 @@
-<img align="left" alt="HTML" src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/main/LinkedIn%20Banner-Tayam.png" /> 
+<img align="left" alt="HTML" src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/main/github-banner-tayam.png" /> 
 
 <h1 align="center">Hello, there! <img src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/master/wave.gif" width="40px"></h1> 
 
@@ -33,7 +33,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <br><br>
 
-Design and Creative Tools i have experience with:
+<h3 align="left">🎨 Design and Creative Tools i have experience with:</h3>
 <p align="left">
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
