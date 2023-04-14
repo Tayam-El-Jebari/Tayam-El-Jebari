@@ -1,4 +1,4 @@
-<img align="left" alt="HTML" src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/main/github-banner-tayam.png" /> 
+<img alt="banner Tayam" src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/main/github-banner-tayam.png" /> 
 
 <h1 align="center">Hello, there! <img src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/master/wave.gif" width="40px"></h1> 
 
