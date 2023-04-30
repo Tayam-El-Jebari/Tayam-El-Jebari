@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayam-el-jebari&label=Profile%20views&color=1a1a1a&style=flat-square" alt="tayam-el-jebari" /> </p>
 
-- 🌱 I’m currently learning **Vue.js and Spring Boot (Java Advanced**
+- 🌱 I’m currently learning **Vue.js and Spring Boot (Java Advanced)**
 
 - 📝 studying in [Inholland Haarlem](Inholland Haarlem)
 
