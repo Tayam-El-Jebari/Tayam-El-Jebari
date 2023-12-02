@@ -34,6 +34,8 @@
   </a>
 </details>
 
+<br>
+
 ***  
 
 <em><p align="center">let's get in touch!</p></em>
