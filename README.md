@@ -33,5 +33,6 @@
 
 <em><p align="center">let's get in touch!</p></em>
 <p align="center">
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tayam-el-jebari-9702a2146/)
 <a href="https://www.linkedin.com/in/tayam-el-jebari-9702a2146/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
