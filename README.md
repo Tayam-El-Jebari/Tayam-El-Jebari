@@ -15,9 +15,9 @@
 - 📌 I'm from **The Netherlands, Haarlem**
 
 <details open>
-<summary><h3 align="left">🔧 Languages and Tools that I use or have worked on in the past:</h3></summary>
+<summary><h3 align="left">🔧 Languages and Tools that I use or have worked with in the past:</h3></summary>
  <p>
-   <img src="https://skillicons.dev/icons?i=kotlin,spring,java,cs,react,ts,py,php,mongodb,firebase,mysql,linux,grafana,graphql,vite,vue,github,git,docker,bash,bootstrap,js,idea,figma" alt="Languages and Tools" onclick="location.href = 'https://github.com/Tayam-El-Jebari'">
+   <img src="https://skillicons.dev/icons?i=kotlin,spring,java,cs,react,ts,py,php,mongodb,firebase,mysql,linux,grafana,graphql,vite,vue,github,git,docker,bash,bootstrap,js,idea,figma" alt="Languages and Tools">
   </p>
 </details>
 <br><br>
