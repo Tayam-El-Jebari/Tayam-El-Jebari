@@ -4,7 +4,7 @@
 
 <h3 align="center">Curious Software Engineer and Informatics Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayam-el-jebari&label=Profile%20views&color=1a1a1a&style=flat-square" alt="tayam-el-jebari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayam-el-jebari&label=Profile%20views&color=1a1a1a&style=for-the-badge" alt="tayam-el-jebari" /> </p>
 
 - 🌱 I’m currently learning **Kotlin and Python**
 
