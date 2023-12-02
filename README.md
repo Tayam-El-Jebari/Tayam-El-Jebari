@@ -6,11 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayam-el-jebari&label=Profile%20views&color=1a1a1a&style=flat-square" alt="tayam-el-jebari" /> </p>
 
-- 🌱 I’m currently learning **Vue.js and Spring Boot (Java Advanced)**
+- 🌱 I’m currently learning **Kotlin and Python**
 
-- 📝 studying in [Inholland Haarlem](Inholland Haarlem)
+- 🚀 I currently have an internship @ Albert Heijn as a fullstack developer
 
-- 💬 I'm from **The Netherlands, Haarlem**
+- 📝 Studying in [Inholland Haarlem](https://www.inholland.nl/)
+
+- 📌 I'm from **The Netherlands, Haarlem**
 
 
 <h3 align="left">🔧 Languages and Tools that I use or have worked on in the past:</h3>
