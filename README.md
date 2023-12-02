@@ -33,5 +33,7 @@
 
 <em><p align="center">let's get in touch!</p></em>
 <p align="center">
-<a href="https://www.linkedin.com/in/tayam-el-jebari-9702a2146/" target="_blank"><img align="center" alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/tayam-el-jebari-9702a2146/">
+ <img align="center" alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
