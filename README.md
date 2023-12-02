@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kotlin and Python**
 
-- 🚀 I currently have an internship [@Albert Heijn Labs](https://labs.ah.nl/) as a fullstack developer
+- 🚀 Currently in a internship [@Albert Heijn Labs](https://labs.ah.nl/) as a fullstack developer
 
 - 📝 Studying in [Inholland Haarlem](https://www.inholland.nl/)
 
