@@ -16,9 +16,11 @@
 
 <details open>
 <summary><h3 align="left">🔧 Languages and Tools that I use or have worked with in the past:</h3></summary>
+ <a href="https://github.com/Tayam-El-Jebari/">
  <p >
-   <img src="https://skillicons.dev/icons?i=kotlin,spring,java,cs,react,ts,py,php,mongodb,firebase,mysql,linux,grafana,graphql,vite,vue,github,git,docker,bash,bootstrap,js,idea,azure" alt="Languages and Tools">
+   <img src="https://skillicons.dev/icons?i=kotlin,spring,java,cs,react,ts,py,php,mongodb,firebase,mysql,linux,grafana,graphql,vite,vue,github,git,docker,bash,bootstrap,js,idea,azure&perline=12" alt="Languages and Tools">
   </p>
+ </a>
 </details>
 <br><br>
 
