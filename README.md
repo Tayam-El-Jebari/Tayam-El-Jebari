@@ -22,7 +22,8 @@
   </p>
  </a>
 </details>
-<br><br>
+
+<br>
 
 <details open>
 <summary><h3 align="left">🎨 Design and Creative Tools i have experience with:</h3></summary>
