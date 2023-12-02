@@ -26,9 +26,11 @@
 
 <details open>
 <summary><h3 align="left">🎨 Design and Creative Tools i have experience with:</h3></summary>
- <p> 
-    <img src="https://skillicons.dev/icons?i=figma,xd,ae,ps,blender" alt="Design and Creative Tools">
- </p>
+  <a href="https://github.com/Tayam-El-Jebari/">
+   <p> 
+      <img src="https://skillicons.dev/icons?i=figma,xd,ae,ps,blender" alt="Design and Creative Tools">
+   </p>
+  </a>
 </details>
 
 ***  
