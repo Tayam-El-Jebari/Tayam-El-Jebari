@@ -17,7 +17,7 @@
 <details open>
 <summary><h3 align="left">🔧 Languages and Tools that I use or have worked on in the past:</h3></summary>
  <p>
-   [![My Skills](https://skillicons.dev/icons?i=kotlin,spring,java,cs,react,ts,py,php,mongodb,firebase,mysql,linux,grafana,graphql,vite,vue,github,git,docker,bash,bootstrap,js,idea,figma)](https://github.com/Tayam-El-Jebari)
+   <img src="https://skillicons.dev/icons?i=kotlin,spring,java,cs,react,ts,py,php,mongodb,firebase,mysql,linux,grafana,graphql,vite,vue,github,git,docker,bash,bootstrap,js,idea,figma" alt="Languages and Tools" onclick="location.href = 'https://github.com/Tayam-El-Jebari'">
   </p>
 </details>
 <br><br>
