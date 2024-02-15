@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Big Data and AI**
 
-- 🚀 Currently in a internship [@Albert Heijn Labs](https://labs.ah.nl/) as a fullstack developer
+- 🚀 Currently working [@Albert Heijn Labs](https://labs.ah.nl/) as a Devops Engineer
 
 - 📝 Studying in [Inholland Haarlem](https://www.inholland.nl/)
 
