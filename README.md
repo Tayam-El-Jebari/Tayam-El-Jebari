@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayam-el-jebari&label=Profile%20views&color=1E73E2&style=for-the-badge" alt="tayam-el-jebari" /> </p>
 
-- 🌱 I’m currently learning **Big Data and AI**
+- 🌱 I’m currently learning **Cloud Computing & Openshift**
 
 - 🚀 Currently working [@Albert Heijn Labs](https://labs.ah.nl/) as a Devops Engineer
 
