@@ -8,7 +8,7 @@
 
 - 🌱 I’m doing my internship about **making a template to enhance productivity within AH**
 
-- 🚀 Currently working [@Albert Heijn Labs](https://labs.ah.nl/) as an intern and Devops Engineer
+- 🚀 Currently working [@Albert Heijn E-Commerce](https://www.ah.nl/) as an intern and Devops Engineer
 
 - 📝 Studying in [Inholland Haarlem](https://www.inholland.nl/)
 
