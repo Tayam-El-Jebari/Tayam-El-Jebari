@@ -6,11 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayam-el-jebari&label=Profile%20views&color=1E73E2&style=for-the-badge" alt="tayam-el-jebari" /> </p>
 
-- 🌱 I’m doing my internship about **making a template to enhance productivity within AH**
-
-- 🚀 Currently working [@Albert Heijn E-Commerce](https://www.ah.nl/) as an intern and Devops Engineer
-
-- 📝 Studying in [Inholland Haarlem](https://www.inholland.nl/)
+- 🚀 Currently working [@Albert Heijn E-Commerce](https://www.ah.nl/) as a Devops Engineer
 
 - 📌 I'm from **The Netherlands, Haarlem**
 
