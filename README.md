@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, there! <img src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/master/wave.gif" width="40px"></h1> 
 
-<h3 align="center">Curious Software Engineer and Informatics Student</h3>
+<h3 align="center">Curious Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayam-el-jebari&label=Profile%20views&color=1E73E2&style=for-the-badge" alt="tayam-el-jebari" /> </p>
 
