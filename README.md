@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayam-el-jebari&label=Profile%20views&color=1E73E2&style=for-the-badge" alt="tayam-el-jebari" /> </p>
 
-- 🚀 Currently working [@Albert Heijn E-Commerce](https://www.ah.nl/) as a Devops Engineer
+- 🚀 Currently working fulltime [@Albert Heijn E-Commerce](https://www.ah.nl/) as a Devops Engineer
 
 - 🎓 Studying the Pre-Master's program for Software Engineering [@The University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/software-engineering/study-programme/pre-masters-programme/pre-masters-programme.html)
 
