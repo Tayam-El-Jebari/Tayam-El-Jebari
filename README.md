@@ -8,6 +8,8 @@
 
 - 🚀 Currently working [@Albert Heijn E-Commerce](https://www.ah.nl/) as a Devops Engineer
 
+- 🎓 Studying the Pre-Master's program for Software Engineering [@The University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/software-engineering/study-programme/pre-masters-programme/pre-masters-programme.html)
+
 - 📌 I'm from **The Netherlands, Haarlem**
 
 <details open>
