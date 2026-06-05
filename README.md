@@ -1,44 +1,34 @@
-<img align="left" alt="HTML" src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/main/github-banner-tayam.png" /> 
+<img align="left" alt="banner" src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/main/github-banner-tayam.png" />
 
-<h1 align="center">Hello, there! <img src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/master/wave.gif" width="40px"></h1> 
+<h1 align="center">Hello, there! <img src="https://raw.githubusercontent.com/Tayam-El-Jebari/Tayam-El-Jebari/main/wave.gif" width="40px"></h1>
 
-<h3 align="center">Curious Software Engineer</h3>
+<h3 align="center">Backend & Distributed Systems Engineer — platform, identity/access & event-driven microservices</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayam-el-jebari&label=Profile%20views&color=1E73E2&style=for-the-badge" alt="tayam-el-jebari" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tayam-el-jebari&label=Profile%20views&color=1E73E2&style=for-the-badge" alt="tayam-el-jebari" />
+</p>
 
-- 🚀 Currently working fulltime [@Albert Heijn E-Commerce](https://www.ah.nl/) as a Devops Engineer
+- 🛠️ Back-End Engineer [@Albert Heijn](https://www.ah.nl/) — building the **identity & access control plane** for TMS 2.0 (Keycloak · OIDC · Cedar · Azure APIM) on Kubernetes
+- 🧭 Growing toward **solution architecture** — distributed systems, platform & identity engineering
+- 🎓 Software Engineering Pre-Master's [@University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/software-engineering/study-programme/pre-masters-programme/pre-masters-programme.html)
+- 📌 Haarlem, The Netherlands
 
-- 🎓 Studying the Pre-Master's program for Software Engineering [@The University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/software-engineering/study-programme/pre-masters-programme/pre-masters-programme.html)
-
-- 📌 I'm from **The Netherlands, Haarlem**
+<br>
 
 <details open>
-<summary><h3 align="left">🔧 Languages and Tools that I use or have worked with in the past:</h3></summary>
- <a href="https://github.com/Tayam-El-Jebari/">
- <p >
-   <img src="https://skillicons.dev/icons?i=kotlin,spring,golang,cs,react,ts,py,php,mongodb,firebase,mysql,linux,grafana,graphql,vite,vue,github,git,docker,bash,bootstrap,java,idea,azure&perline=12" alt="Languages and Tools">
+<summary><h3 align="left">🔧 Core stack</h3></summary>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=kotlin,spring,java,kubernetes,docker,azure,postgres,grafana,prometheus,py,go,terraform,bash,git,github,linux&perline=12" alt="Core stack" />
   </p>
- </a>
 </details>
 
-<br>
+**Also working with:** Apache Kafka (Confluent) · Keycloak · Cedar · Pulumi · Azure API Management · Debezium (CDC) · ArgoCD · Avro
 
-<details open>
-<summary><h3 align="left">🎨 Design and Creative Tools i have experience with:</h3></summary>
-  <a href="https://github.com/Tayam-El-Jebari/">
-   <p> 
-      <img src="https://skillicons.dev/icons?i=figma,xd,ae,ps,blender" alt="Design and Creative Tools">
-   </p>
-  </a>
-</details>
-
-<br>
-
-***  
+***
 
 <em><p align="center">let's get in touch!</p></em>
 <p align="center">
-<a href="https://www.linkedin.com/in/tayam-el-jebari-9702a2146/">
- <img align="center" alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/tayam-el-jebari-9702a2146/">
+    <img align="center" alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
