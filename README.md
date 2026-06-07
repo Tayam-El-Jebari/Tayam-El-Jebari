@@ -8,8 +8,8 @@
 </p>
 
 - 🛠️ Back-End Engineer [@Albert Heijn](https://www.ah.nl/) — building the **identity & access control plane** for TMS 2.0 (Keycloak · OIDC · Cedar · Azure APIM) on Kubernetes
-- 🧭 Growing toward **solution architecture** — distributed systems, platform & identity engineering
-- 🎓 Software Engineering Pre-Master's [@University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/software-engineering/study-programme/pre-masters-programme/pre-masters-programme.html)
+- 🧭 Growing towards **solution architecture** · distributed systems, platform & identity engineering
+- 🎓 Currently doing a Software Engineering Pre-Master's [@University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/software-engineering/study-programme/pre-masters-programme/pre-masters-programme.html)
 - 📌 Haarlem, The Netherlands
 
 <br>
